@@ -1,9 +1,6 @@
-/* Farran Ahmed
- * 2170-001
- * Filename: playable.cpp
-* Description: files takes is main and calls all the funtions
- * A.I. Disclaimer: All work for this assignment was completed by myself and entirely without the use of artificial intelligence tools such as ChatGPT, MS Copilot, other LLMs, etc.
-*/
+
+ //Filename: playable.cpp
+
 
 #include <iostream>
 #include <cstdlib>
