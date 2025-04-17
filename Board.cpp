@@ -1,11 +1,10 @@
 
 
-/* Farran Ahmed
- * 2170-001
- * Filename: board.cpp
-* Description: file for impelmtatiom for methods and functions
- * A.I. Disclaimer: All work for this assignment was completed by myself and entirely without the use of artificial intelligence tools such as ChatGPT, MS Copilot, other LLMs, etc.
-*/
+
+ //Filename: board.cpp
+// Description: file for impelmtatiom for methods and functions
+
+
 
 #include <iostream>
 #include <cstdlib>
